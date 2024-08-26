@@ -40,6 +40,7 @@ public final class BloomburrowCommander extends ExpansionSet {
         cards.add(new SetCardInfo("Beast Within", 206, Rarity.UNCOMMON, mage.cards.b.BeastWithin.class));
         cards.add(new SetCardInfo("Beastmaster Ascension", 118, Rarity.RARE, mage.cards.b.BeastmasterAscension.class));
         cards.add(new SetCardInfo("Beledros Witherbloom", 247, Rarity.MYTHIC, mage.cards.b.BeledrosWitherbloom.class));
+        cards.add(new SetCardInfo("Bello, Bard of the Brambles", 1, Rarity.MYTHIC, mage.cards.b.BelloBardOfTheBrambles.class));
         cards.add(new SetCardInfo("Berserkers' Onslaught", 192, Rarity.RARE, mage.cards.b.BerserkersOnslaught.class));
         cards.add(new SetCardInfo("Bident of Thassa", 162, Rarity.RARE, mage.cards.b.BidentOfThassa.class));
         cards.add(new SetCardInfo("Big Score", 193, Rarity.COMMON, mage.cards.b.BigScore.class));
@@ -178,6 +179,7 @@ public final class BloomburrowCommander extends ExpansionSet {
         cards.add(new SetCardInfo("Morbid Opportunist", 183, Rarity.UNCOMMON, mage.cards.m.MorbidOpportunist.class));
         cards.add(new SetCardInfo("Mossfire Valley", 316, Rarity.RARE, mage.cards.m.MossfireValley.class));
         cards.add(new SetCardInfo("Mosswort Bridge", 317, Rarity.RARE, mage.cards.m.MosswortBridge.class));
+        cards.add(new SetCardInfo("Mr. Foxglove", 6, Rarity.MYTHIC, mage.cards.m.MrFoxglove.class));
         cards.add(new SetCardInfo("Ms. Bumbleflower", 3, Rarity.MYTHIC, mage.cards.m.MsBumbleflower.class));
         cards.add(new SetCardInfo("Murmuration", 10, Rarity.RARE, mage.cards.m.Murmuration.class));
         cards.add(new SetCardInfo("Mystic Monastery", 318, Rarity.UNCOMMON, mage.cards.m.MysticMonastery.class));
